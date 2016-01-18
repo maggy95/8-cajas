@@ -1,0 +1,30 @@
+div{
+    
+      width:175px;
+      height:60px;
+      border: 1px solid black;
+      margin-left:5px;
+      margin-top: 5px;
+      display: block; 
+      background-color: grey;
+      
+      
+      }/* Inserta tu CSS aqui */
+
+
+.h1{
+	float: left;
+}
+
+.h2{
+	float: left;
+}
+
+.h3{
+	float: left;
+}
+
+.p3{
+	margin-top: -1px;
+	margin-left: 60px;
+	}
